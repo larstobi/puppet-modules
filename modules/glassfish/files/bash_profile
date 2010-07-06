@@ -1,0 +1,8 @@
+if [ -f $HOME/.bashrc ]; then
+  . $HOME/.bashrc
+fi
+
+JAVA_HOME=/usr/jdk/latest
+PATH=$JAVA_HOME/bin:/opt/XXXglassfish/bin:$PATH
+
+export JAVA_HOME PATH
