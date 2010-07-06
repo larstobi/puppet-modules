@@ -1,0 +1,11 @@
+mail=
+instance=unique
+partial=nocheck
+runlevel=nocheck
+idepend=nocheck
+rdepend=nocheck
+space=quit
+setuid=nocheck
+conflict=nocheck
+action=nocheck
+basedir=default
